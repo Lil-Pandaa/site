@@ -1,0 +1,11 @@
+{
+    "paper": "https://serverjars.com/api/fetchLatest/servers/paper",
+    "spigot": "https://serverjars.com/api/fetchLatest/servers/spigot",
+    "bukkit": "https://serverjars.com/api/fetchLatest/servers/bukkit",
+    "vanilla": "https://serverjars.com/api/fetchLatest/vanilla/vanilla",
+    "forge": "https://serverjars.com/api/fetchLatest/modded/forge",
+    "fabric": "https://serverjars.com/api/fetchLatest/modded/fabric",
+    "nukkitx": "https://serverjars.com/api/fetchJar/bedrock/nukkitx",
+    "pocketmine": "https://serverjars.com/api/fetchJar/bedrock/pocketmine",
+    "bedrock": "https://minecraft.azureedge.net/bin-linux/bedrock-server-1.19.51.01.zip"
+}

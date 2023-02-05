@@ -1,0 +1,11 @@
+{
+    "paper": "https://serverjars.com/api/fetchAll/servers/paper/3",
+    "forge": "https://serverjars.com/api/fetchAll/modded/forge/3",
+    "fabric": "https://serverjars.com/api/fetchAll/modded/fabric/3",
+    "vanilla": "https://serverjars.com/api/fetchAll/vanilla/vanilla/3",
+    "spigot": "https://serverjars.com/api/fetchAll/servers/spigot/3",
+    "bukkit": "https://serverjars.com/api/fetchAll/servers/bukkit/3",
+    "nukkitx": "https://serverjars.com/api/fetchJar/bedrock/nukkitx",
+    "pocketmine": "https://serverjars.com/api/fetchJar/bedrock/pocketmine"
+
+}
